@@ -4,7 +4,7 @@
 - [Documentation](https://maschere.github.io/asset-documentation/micro-benchmark)
 - [C++ Doxygen Docs](https://maschere.github.io/asset-documentation/micro-benchmark/docs/index.html)
 - [Support Forum](https://github.com/maschere/asset-documentation/discussions/categories/microbenchmark)
-- [Marketplace Link](https://www.unrealengine.com/marketplace/en-US/product/440f7dbfc0014afaab135cd12f01d72b)
+- [Marketplace Link](https://www.unrealengine.com/marketplace/en-US/product/micro-benchmark-profiler-tool-for-blueprint-and-code-performance-timing)
 
 
 ## Step-by-step usage guide
