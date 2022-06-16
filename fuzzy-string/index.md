@@ -1,5 +1,5 @@
-# MicroBenchmark
-## Easy to use profiling tool to measure code performance in Unreal Blueprints or C++.
+# Fuzzy String
+## Calculate approximate string / text similarity in Unreal Blueprints or C++.
 
 - [Documentation](https://maschere.github.io/asset-documentation/fuzzy-string)
 - [C++ Doxygen Docs](https://maschere.github.io/asset-documentation/fuzzy-string/docs/index.html)
